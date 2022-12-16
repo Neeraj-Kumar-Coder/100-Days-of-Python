@@ -6,3 +6,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 002: Introduction about Modules in Python
 - #### Day 003: Created our first python program
 - #### Day 004: Learned about print() arguments (non essentials) and escape sequence characters
+- #### Day 005: Learned about variables and data types (in python everything is an object)
