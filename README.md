@@ -9,3 +9,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 005: Learned about variables and data types (in python everything is an object)
 - #### Day 006: Created a basic calculator in python (expression support: a op b)
 - #### Day 007: Basic calculator solution on this day
+- #### Day 008: Learned about typecasting in python (Implicit and Explicit Typecasting)
