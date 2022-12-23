@@ -13,3 +13,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 009: Learned to take input in python using the input() method (it takes the input in the form of string)
 - #### Day 010: Learned about basics of string and looping through it using for-in loop
 - #### Day 011: String slicing (with negative index slicing)
+- #### Day 012: Learned about methods in strings
