@@ -15,3 +15,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 011: String slicing (with negative index slicing)
 - #### Day 012: Learned about methods in strings
 - #### Day 013: Conditional statements in python (if, if-else, if-elif-else ladder)
+- #### Day 014: Learned about time module in python and implemented a simple program based on it
