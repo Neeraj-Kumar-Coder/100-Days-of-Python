@@ -18,3 +18,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 014: Learned about time module in python and implemented a simple program based on it
 - #### Day 015: Learned the new addition of python's match-case statement (introduced from python 3.10)
 - #### Day 016: Started loops and learned about for loops (works on iterable objects)
+- #### Day 017: Learned while loop and while-else feature

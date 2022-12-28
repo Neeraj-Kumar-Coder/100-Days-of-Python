@@ -1,4 +1,4 @@
-# For loop loops over iterable objects in python
+# For-loop loops over iterable objects in python
 
 name = "Neeraj Kumar"
 for character in name:
