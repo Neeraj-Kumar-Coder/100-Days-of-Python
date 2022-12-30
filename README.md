@@ -20,3 +20,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 016: Started loops and learned about for loops (works on iterable objects)
 - #### Day 017: Learned while loop and while-else feature
 - #### Day 018: Break and Continue in loops (empulation of do-while loop in python)
+- #### Day 019: Started functions also learned about the 'pass' keyword
