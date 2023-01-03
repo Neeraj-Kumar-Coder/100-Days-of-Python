@@ -24,3 +24,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 020: Learned various ways of passing arguments to functions (5 ways: Required, Default, Keyword, Variable length as tuple, Variable length as dictionary)
 - #### Day 021: Learned about list in python (including List Comprehensions, to generate list on the fly)
 - #### Day 022: List methods (append(), concat(), extend(), copy(), insert(), count(), index() and more...)
+- #### Day 023: Learned about methods in tuple (similar slicing and all but tuples are immutable)
