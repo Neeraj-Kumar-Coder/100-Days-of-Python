@@ -26,3 +26,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 022: List methods (append(), concat(), extend(), copy(), insert(), count(), index() and more...)
 - #### Day 023: Learned about methods in tuple (similar slicing and all but tuples are immutable)
 - #### Day 024: Learned various operations in tuple (method to change a tuple by converting to list, index(), count() etc...)
+- #### Day 025: Get the solution of "Good Morning Sir" exercise (use of time module and time formatting)
