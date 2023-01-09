@@ -29,3 +29,5 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 025: Get the solution of "Good Morning Sir" exercise (use of time module and time formatting)
 - #### Day 026: Created a KBC app using the concepts learned till now
 - #### Day 027: Learned f-strings in python (python 3.6 onwards)
+- #### Day 028: Learned about 'Docstring' and 'The Zen of Python' (by 'import this')
+- #### Day 029: Recursion in python [factorial() and fibonacci() example]
