@@ -32,3 +32,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 028: Learned about 'Docstring' and 'The Zen of Python' (by 'import this')
 - #### Day 029: Recursion in python [factorial() and fibonacci() example]
 - #### Day 030: Learned about sets in python
+- #### Day 031: Learned about different methods in sets
