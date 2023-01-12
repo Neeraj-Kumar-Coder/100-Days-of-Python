@@ -33,3 +33,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 029: Recursion in python [factorial() and fibonacci() example]
 - #### Day 030: Learned about sets in python
 - #### Day 031: Learned about different methods in sets
+- #### Day 032: Learned about dictionaries in python and how to get values from it (dict.key(), dict.values(), dict.items() etc...)
