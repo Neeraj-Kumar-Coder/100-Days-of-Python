@@ -36,3 +36,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 032: Learned about dictionaries in python and how to get values from it (dict.key(), dict.values(), dict.items() etc...)
 - #### Day 033: Learned about some methods of dictionary (update(), pop(), popitem(), clear() etc...)
 - #### Day 034: Learned about using 'else' with the 'for-loop'
+- #### Day 035: Introduction to Error Handling in python using the Try-Except syntax
