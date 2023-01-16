@@ -37,3 +37,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 033: Learned about some methods of dictionary (update(), pop(), popitem(), clear() etc...)
 - #### Day 034: Learned about using 'else' with the 'for-loop'
 - #### Day 035: Introduction to Error Handling in python using the Try-Except syntax
+- #### Day 036: Learned about 'finally' keyword in exceptional handling and it's real usecase (in functions, it will get executed even if the function get returned)
