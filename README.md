@@ -38,3 +38,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 034: Learned about using 'else' with the 'for-loop'
 - #### Day 035: Introduction to Error Handling in python using the Try-Except syntax
 - #### Day 036: Learned about 'finally' keyword in exceptional handling and it's real usecase (in functions, it will get executed even if the function get returned)
+- #### Day 037: Learned about 'raise' keyword and how to raise custom exceptions in python
