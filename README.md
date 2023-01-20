@@ -41,3 +41,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 037: Learned about 'raise' keyword and how to raise custom exceptions in python
 - #### Day 038: Solution of KBC exercise
 - #### Day 039: Developed a program to encrypt/decrypt a message
+- #### Day 040: Learned the shorthand of if-else in python
