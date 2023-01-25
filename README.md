@@ -46,3 +46,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 042: Learned about the Python virtual environments. How to create, activate and deactivate them
 - #### Day 043: Learned about importing modules in different methods ('as' keyword etc...)
 - #### Day 044: Learned how to safely import a module using if __name__ == '__main__'
+- #### Day 045: Learned about the os module and show basic methods of it
