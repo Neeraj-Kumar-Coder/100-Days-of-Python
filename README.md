@@ -50,3 +50,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 046: Got solution for Secret code language
 - #### Day 047: Learned about local and global variables in python ('global' keyword)
 - #### Day 048: Learned about file io in python. The methods like read() write() open() and 'with' keyword
+- #### Day 049: Learned about different methods of file IO like readlines(), writelines(), write() etc.
