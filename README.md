@@ -54,3 +54,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 050: Learned more methods of file IO (seek(), tell(), trucate())
 - #### Day 051: Learned about lambda functions
 - #### Day 052: Learned about map(), filter() and reduce()
+- #### Day 053: Learned the difference between 'is' and '==' comparison operators
