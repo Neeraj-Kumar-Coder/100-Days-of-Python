@@ -55,3 +55,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 051: Learned about lambda functions
 - #### Day 052: Learned about map(), filter() and reduce()
 - #### Day 053: Learned the difference between 'is' and '==' comparison operators
+- #### Day 054: Created a SNAKE, WATER and GUN game using the concepts learned so far
