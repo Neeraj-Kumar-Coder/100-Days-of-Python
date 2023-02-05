@@ -57,3 +57,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 053: Learned the difference between 'is' and '==' comparison operators
 - #### Day 054: Created a SNAKE, WATER and GUN game using the concepts learned so far
 - #### Day 055: Introduction to OOPs
+- #### Day 056: Learned how to create a class and its objects
