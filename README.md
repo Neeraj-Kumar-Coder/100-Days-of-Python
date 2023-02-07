@@ -59,3 +59,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 055: Introduction to OOPs
 - #### Day 056: Learned how to create a class and its objects
 - #### Day 057: Constructors in class
+- #### Day 058: Decorators in python
