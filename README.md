@@ -62,3 +62,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 058: Decorators in python
 - #### Day 059: Getters and Setters in python (@attribute and @function.setter decorators)
 - #### Day 060: Introduction to Inheritance in python
+- #### Day 061: Learned about 'access modifiers' (a convention in python programming)
