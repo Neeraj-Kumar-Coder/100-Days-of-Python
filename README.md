@@ -64,3 +64,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 060: Introduction to Inheritance in python
 - #### Day 061: Learned about 'access modifiers' (a convention in python programming)
 - #### Day 062: Got the solution for Snake, Water and Gun game
+- #### Day 063: Solved the exercise of creating a simple library management system using python class
