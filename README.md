@@ -66,3 +66,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 062: Got the solution for Snake, Water and Gun game
 - #### Day 063: Solved the exercise of creating a simple library management system using python class
 - #### Day 064: Learned about static methods in class (@staticmethod decorator)
+- #### Day 065: Learned about class variables and instance variables
