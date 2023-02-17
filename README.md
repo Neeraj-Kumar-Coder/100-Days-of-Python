@@ -69,3 +69,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 065: Learned about class variables and instance variables
 - #### Day 066: Got the solution for library management system
 - #### Day 067: Solved "Clear the clutter" exercise using os module
+- #### Day 068: Learned about class methods in python (@classmethod decorator)
