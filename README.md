@@ -71,3 +71,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 067: Solved "Clear the clutter" exercise using os module
 - #### Day 068: Learned about class methods in python (@classmethod decorator)
 - #### Day 069: Learned about class methods as alternative constructors
+- #### Day 070: Learned about dir(), __dict__ and help()
