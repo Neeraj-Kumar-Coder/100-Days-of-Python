@@ -45,7 +45,7 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 041: Learned about the enumerate function that returns a tuple (index, value) and also accepts a start attribute that specifies from what number the index should start
 - #### Day 042: Learned about the Python virtual environments. How to create, activate and deactivate them
 - #### Day 043: Learned about importing modules in different methods ('as' keyword etc...)
-- #### Day 044: Learned how to safely import a module using if __name__ == '__main__'
+- #### Day 044: Learned how to safely import a module using if `__name__` == '`__main__`'
 - #### Day 045: Learned about the os module and show basic methods of it
 - #### Day 046: Got solution for Secret code language
 - #### Day 047: Learned about local and global variables in python ('global' keyword)
@@ -71,5 +71,6 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 067: Solved "Clear the clutter" exercise using os module
 - #### Day 068: Learned about class methods in python (@classmethod decorator)
 - #### Day 069: Learned about class methods as alternative constructors
-- #### Day 070: Learned about dir(), __dict__ and help()
+- #### Day 070: Learned about dir(), `__dict__` and help()
 - #### Day 071: Learned about super()
+- #### Day 072: Learned about Dunder methods in python (`__str__`, `__repr__`, `__len__`, `__call__`)
