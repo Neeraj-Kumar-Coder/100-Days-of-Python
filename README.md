@@ -75,3 +75,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 071: Learned about super()
 - #### Day 072: Learned about Dunder methods in python (`__str__`, `__repr__`, `__len__`, `__call__`)
 - #### Day 073: Learned about method overriding in inheritance
+- #### Day 074: Got the solution for 'clear the clutter' exercise
