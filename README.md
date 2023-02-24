@@ -76,3 +76,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 072: Learned about Dunder methods in python (`__str__`, `__repr__`, `__len__`, `__call__`)
 - #### Day 073: Learned about method overriding in inheritance
 - #### Day 074: Got the solution for 'clear the clutter' exercise
+- #### Day 075: Solved 'merge the pdfs' exercise in python using `PyPDF2` Module (methods= PdfMerger(), PdfReader() also used `os` module)

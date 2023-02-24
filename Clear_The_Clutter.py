@@ -11,7 +11,10 @@ try:
         count += 1
         source = f"./{file}"
         destination = f"./Sample_Image_{count}.jpg"
-        os.rename(source, destination)
+        try:
+            os.rename(source, destination)
+        except:
+            pass
 
     print(f"{count} file{'s' if count > 1 else ''} renamed successfully!")
 except Exception as e:
