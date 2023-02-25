@@ -77,3 +77,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 073: Learned about method overriding in inheritance
 - #### Day 074: Got the solution for 'clear the clutter' exercise
 - #### Day 075: Solved 'merge the pdfs' exercise in python using `PyPDF2` Module (methods= PdfMerger(), PdfReader() also used `os` module)
+- #### Day 076: Implemented Vector class using the concept of operator overloading (learned the concept of operator overloading)
