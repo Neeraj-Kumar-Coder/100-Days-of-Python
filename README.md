@@ -84,3 +84,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 080: Inheritance: Hybrid and Heirarchical Inheritance learned
 - #### Day 081: Got the solution for 'merge the pdf' exercise
 - #### Day 082: Solved the exercise 'Shoutout to everyone' (learned how to make python speak using `win32com`)
+- #### Day 083: Learned basics about the `time` module
