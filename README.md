@@ -89,3 +89,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 085: Learned about `walrus` operator `:=` in python (since v3.8)
 - #### Day 086: Learned about `shutil` module for various high level file operations
 - #### Day 087: Got the solution of 'shoutout to everyone' exercise
+- #### Day 088: Learned about `requests` and `bs4` module in python
