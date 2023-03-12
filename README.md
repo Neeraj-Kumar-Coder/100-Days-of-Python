@@ -92,3 +92,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 088: Learned about `requests` and `bs4` module in python
 - #### Day 089: Solved the exercise of creating a 'news app' using the concepts learned so far
 - #### Day 090: Learned about generators (`yeild`) in python
+- #### Day 091: Learned about `lru_cache` in `functools` module
