@@ -8,6 +8,7 @@ print(f"Time to get the request = {response.elapsed}")
 
 # Web Scraping
 soup = BeautifulSoup(response.text, "html.parser")
+
 h2s = soup.find_all("h2")
 
 for h2 in h2s:
