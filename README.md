@@ -95,3 +95,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 091: Learned about `lru_cache` in `functools` module
 - #### Day 092: Got the solution of 'news app' exercise
 - #### Day 093: Solved the exercise 'drink water remainder'
+- #### Day 094: Learned about regular expression in python `re` module
