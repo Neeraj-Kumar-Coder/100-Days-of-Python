@@ -98,3 +98,4 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 094: Learned about regular expression in python `re` module
 - #### Day 095: Learned about asynchronous programming using `asyncio` module (`asyncio.run(function())`, `asyncio.sleep(seconds)`, `asyncio.gather(function1(), function2(), ... , functionn())`)
 - #### Day 096: Learned multithreading in python (`threading` module: `threading.Thread()`, `thread.start()`, `thread.join()`)
+- #### Day 097: Learned multiprocessing in python (`multiprocessing` module: `multiprocessing.Process()`, `process.start()`, `process.join()`)
