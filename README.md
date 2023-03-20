@@ -100,3 +100,5 @@ Target is to learn python from scratch in 100 Days of coding in python.
 - #### Day 096: Learned multithreading in python (`threading` module: `threading.Thread()`, `thread.start()`, `thread.join()`)
 - #### Day 097: Learned multiprocessing in python (`multiprocessing` module: `multiprocessing.Process()`, `process.start()`, `process.join()`)
 - #### Day 098: Got the solution of 'drink water remainder' exercise
+- #### Day 099: Revised the concepts learned during this journey
+- #### Day 100: Completed the 100 days challenge and looking to move forward from here (maybe Machine Learning...)
